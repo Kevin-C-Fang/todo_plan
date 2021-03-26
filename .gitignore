@@ -29,6 +29,11 @@ local_settings.py
 # Secret key:
 etc/
 
+# Visual studio:
+.vs
+*pyproj
+*pyproj.user
+
 # Environments
 .env
 .venv
